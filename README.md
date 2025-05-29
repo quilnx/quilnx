@@ -1,7 +1,7 @@
 <div align="center">
  <img src="https://cdn.discordapp.com/attachments/1166558986758275073/1376058229259501609/IMG-7660.png?ex=6833f197&is=6832a017&hm=72b185fc5d59aa4d7dda2871e10f8a0ad0bbfaae371cd362d785b848c1a3b26e&"width=200% height=150% >
 <div align="center">
- <img src="https://cdn.discordapp.com/attachments/1166558986758275073/1376301338895323327/kaworu_thing.png?ex=68377701&is=68362581&hm=5377ebb71e1a5d4a9a9a66f5ebabbcf288ded6b9e32427f5d5768bcc5e23adea&"width=50% height=50% >
+ <img src="https://media.discordapp.net/attachments/1166558986758275073/1376301338895323327/kaworu_thing.png?ex=6838c881&is=68377701&hm=62aa5e8a129cd449fb06c8ab38658dbbb12bc9a69a01a74a65fed15f982cf6d0&=&width=920&height=920"width=50% height=50% >
  
  ![image](https://cdn.discordapp.com/attachments/1166558986758275073/1376043127080616017/tumblr_712660313138ad61312e97c751bb8c07_aff20a92_75.gif?ex=6833e387&is=68329207&hm=fd532238d57fe7a63f714a7ed8b7b8796b076aa36322e3dd78d0918c1fafb9f9&)
  
